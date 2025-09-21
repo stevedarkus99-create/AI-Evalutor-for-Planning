@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Risk Evaluation Tool",
+  "description": "A comprehensive tool to evaluate the likelihood and risk of potential harm from AI tools, based on a structured questionnaire. It includes AI-assisted answer generation and automated risk scoring.",
+  "requestFramePermissions": []
+}
